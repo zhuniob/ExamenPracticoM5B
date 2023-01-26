@@ -1,0 +1,49 @@
+enlaceDrive:		https://drive.google.com/file/d/15QQWIcxe8jSJBQnWOTSJA5VRUqCasavy/view?usp=sharing
+
+
+[
+    {
+        "id_empleado": 1,
+        "apellido": "Zhunio",
+        "nombre": "Bryan",
+        "telefono": "0999378132",
+        "direccion": "Cuenca",
+        "fecha_nacimiento": "1999-01-01T05:00:00.000+00:00",
+        "observacion": "Estudiante",
+        "dias_trabajo": 15,
+        "sueldo": 150.5
+    },
+    {
+        "id_empleado": 3,
+        "apellido": "Picapiedra",
+        "nombre": "Pedro",
+        "telefono": "0999357875",
+        "direccion": "Cretacio",
+        "fecha_nacimiento": "1000-10-10T05:00:00.000+00:00",
+        "observacion": "Parvulario",
+        "dias_trabajo": 10,
+        "sueldo": 0.1
+    },
+    {
+        "id_empleado": 4,
+        "apellido": "ererer",
+        "nombre": "ererer",
+        "telefono": "099999999",
+        "direccion": "erer",
+        "fecha_nacimiento": "2004-12-05T00:00:00.000+00:00",
+        "observacion": "ererer",
+        "dias_trabajo": 100,
+        "sueldo": 25.93
+    },
+    {
+        "id_empleado": 6,
+        "apellido": "Aviles",
+        "nombre": "Jessica",
+        "telefono": "0874587458",
+        "direccion": "Quitumbe",
+        "fecha_nacimiento": "1999-01-01T00:00:00.000+00:00",
+        "observacion": "Tecnologo",
+        "dias_trabajo": 500,
+        "sueldo": 99.9
+    }
+]
